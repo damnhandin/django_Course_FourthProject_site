@@ -7,5 +7,6 @@ django-mptt-admin==2.5.1
 Pillow==10.1.0
 pytils==0.4.1
 sqlparse==0.4.4
+django-taggit
 psycopg2
 environs
