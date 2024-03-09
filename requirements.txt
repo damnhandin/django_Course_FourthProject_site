@@ -10,3 +10,4 @@ sqlparse==0.4.4
 django-taggit
 psycopg2
 environs
+markdown
