@@ -30,7 +30,6 @@ from blog.sitemaps import PostSitemap
 from blog import views
 
 
-
 sitemaps = {
     'posts': PostSitemap,
 }
